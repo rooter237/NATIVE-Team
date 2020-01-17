@@ -2,4 +2,4 @@
 Liste des pseudo de la team NATIVE
 
 ## Pseudos
-realjema@native
+Rooter237@Native 
